@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<license>
+	<expireDate check="true">
+		<value>13-12-2015</value>
+	</expireDate>
+	<key>4503707D2B14796933B55A295647E39637E92F48</key>
+	<macAddress check="true">
+		<values>08-00-27-72-88-B5</values>
+	</macAddress>
+	<processorCount check="true">
+		<value>4</value>
+	</processorCount>
+	<userCount check="true">
+		<value>4</value>
+	</userCount>
+</license>
